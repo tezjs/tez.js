@@ -19,7 +19,7 @@
 
 ### Prerequisites
 
-- Install [Node.js](https://nodejs.org/en/) version 14.18+, 16+ which includes Node Package Manager[npm]
+- Install [Node.js](https://nodejs.org/en/) version 16+ which includes Node Package Manager[npm] version 8+
 
 ### Setting Up a Project
 
